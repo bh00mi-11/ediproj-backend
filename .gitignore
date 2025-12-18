@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Django
+db.sqlite3
+.env
+
+# Dataset & models
+data/
+cases/
+*.pkl
+*.pt
+*.h5
