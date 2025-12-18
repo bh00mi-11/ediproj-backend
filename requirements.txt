@@ -8,3 +8,4 @@ dnspython
 tensorflow
 keras
 gunicorn
+django-cors-headers
