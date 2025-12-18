@@ -1,0 +1,10 @@
+Django==5.2.8
+pymongo
+python-dotenv
+deepface
+opencv-python
+Pillow
+dnspython
+tensorflow
+keras
+gunicorn
